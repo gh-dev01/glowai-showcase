@@ -3,7 +3,7 @@
 **AI photo enhancement and studio relighting for creators.**
 Studio-quality portraits in one tap, right in the browser. Built by one founder.
 
-🌐 [glowai.dev](https://glowai.dev) · ✉️ [hello@glowai.dev](mailto:hello@glowai.dev) · 🔒 Invite-only beta · Source code is private, available to investors under NDA
+🌐 [glowai.dev](https://www.glowai.dev) · ✉️ [hello@glowai.dev](mailto:hello@glowai.dev) · 🔒 Invite-only beta · Source code is private, available to investors under NDA
 
 ---
 
